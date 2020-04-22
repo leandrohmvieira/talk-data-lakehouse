@@ -1,4 +1,4 @@
-id,nome,turno,produto,squad
+id_operador,nome_operador,turno_operador,produto,squad
 1,Leandro,tarde,cobranca,2
 2,Karina,manha,credito,2
 3,joao,manha,cobranca,2
