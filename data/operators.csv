@@ -3,4 +3,5 @@ id_operador,nome_operador,turno_operador,produto,squad
 2,Karina,manha,credito,2
 3,joao,manha,cobranca,2
 4,maria,noite,servicos,3
-5,Denis,manha,credito,2
+5,Denis,noite,credito,2
+6,Allan,tarde,cobranca,1
